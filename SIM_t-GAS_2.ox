@@ -1,17 +1,18 @@
 /*
-**	Case Study Financial Econometrics 4.3 
+**	Master Thesis Econometrics
 **
 **  Purpose:
-**  	Estimate all Student's t GAS model parameters ( nu, omega, A and B)
+**  	For some fixed parameter values simulate and estimate T-GAS(1,1) model parameters
+**		with Maximum Likelikhood many times. s.t. stationarity conditions of Bougerol's Theorem
 **
 **  Date:
-**    	16/01/2015
+**    	15/08/2015
 **
 **  Author:
-**	  	Tamer Dilaver, Koen de Man & Sina Zolnoor
+**	  	Tamer Dilaver
 **
 **	Supervisor:
-**		L.F. Hoogerheide & S.J. Koopman
+**		Fransisco Blasques
 **
 */
 														
