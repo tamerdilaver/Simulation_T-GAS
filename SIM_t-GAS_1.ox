@@ -2,7 +2,7 @@
 **	Master Thesis Econometrics
 **
 **  Purpose:
-**  	For some fixed parameter values simulate and estimate AL-GAS(1,1) model parameters
+**  	For some fixed parameter values simulate and estimate T-GAS(1,1) model parameters
 **		with Maximum Likelikhood many times. s.t. stationarity conditions of Bougerol's Theorem
 **
 **  Date:
